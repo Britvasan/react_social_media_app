@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st post",
+      "datetime": "December 10, 2024 11:25:49 PM",
+      "body": "Lorem ipsum dolor sit amet, consectur amet, kolus wil fink be do"
+    },
+    {
+      "id": "2",
+      "title": "second post",
+      "datetime": "December 10, 2024 11:27:34 PM",
+      "body": "Lorem ipsum dolor sit amet, consectur amet, kolus wil fink be do"
+    },
+    {
+      "id": "3",
+      "title": "Number Three",
+      "datetime": "December 10, 2024 11:29:59 PM",
+      "body": "Lorem ipsum dolor sit amet, consectur amet, kolus wil fink be do"
+    },
+    {
+      "id": "4",
+      "title": "Testing a 4th post",
+      "datetime": "December 11, 2024 11:45:30 AM",
+      "body": "testing paragraphs!"
+    },
+    {
+      "id": "41",
+      "title": "Course Completion",
+      "datetime": "December 11, 2024 6:44:38 PM",
+      "body": "I successfully completed my react course in YT."
+    }
+  ]
+}
